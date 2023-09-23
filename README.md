@@ -6,4 +6,10 @@
 1. Run Setup.bat
 2. Run Launch.bat
 
-3. # Your done
+More Questions
+
+- Why is it not open source
+Skids...
+
+- YT Tutorial Coming Soon
+- Discord Coming Soon
