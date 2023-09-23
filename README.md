@@ -1,2 +1,9 @@
 # H1GH-Raider
-Fastest Free Discord Raider That sweeps servers
+![image](https://github.com/leopardfr/H1GH-Raider/assets/142705372/805c6ba3-f3d9-4128-9e96-b536ec338646)
+
+# How To Install... 
+
+1. Run Setup.bat
+2. Run Launch.bat
+
+3. # Your done
